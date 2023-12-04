@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://img.lovepik.com/background/20211021/large/lovepik-save-water-blue-background-image_500467828.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:100%;
+    text-align: center;
+    margin-left: 5%
+    margin-right: 5%
+}
+
+header {
+    background-color: #ff5e00;
+    color: #FFF;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 17;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+section {
+    padding: 40px;
+    font:size 17px;
+
+}
+
+section h2 {
+    color: #ff0019;
+    background-color: yellow;
+    font-size: 17px;
+}
+
+
+footer {
+    background-color: #F8F9FA;
+    text-align: center;
+    padding: 10px 0;
+}
+
+div1 {
+    font-size: 17px;
+}

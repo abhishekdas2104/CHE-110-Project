@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-simple-autumn-rainy-ocean-background-material-rainautumn-backgroundseaoceanposter-backgroundadvertising-image_52834.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:100%;
+    text-align: center;
+    margin-left: 5%
+    margin-right: 5%
+}
+
+header {
+    background-color: #001aff;
+    color: #FFF;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 17;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+section {
+    padding: 5px;
+    font:size 17px;
+
+}
+
+section h2 {
+    color: #ff0019;
+    background-color: white;
+    font-size: 17px;
+}
+
+
+footer {
+    background-color: #F8F9FA;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer {
+    background-color: #FFF;
+    text-align: center:
+    padding: 10px 0;
+}
